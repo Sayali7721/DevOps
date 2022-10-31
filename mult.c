@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int mult(int a, int b) {
-	return a * b;
+	return a * b + 10;
 }
 
 int main() {
